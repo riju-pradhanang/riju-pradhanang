@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riju-pradhanang
 - 👀 I’m interested in webdev and software development.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Frontend.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- Email: pradhanangriju@gmail.com
 - 😄 Pronouns: She/Her
