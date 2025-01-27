@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @riju-pradhanang
-- 👀 I’m interested in webdev and software development.
-- 🌱 I’m currently learning C++, Frontend.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cybersecurity, webdev, software development.
+- 🌱 I’m currently learning Python, Frontend and diving into Backend.
 - 📫 How to reach me- Email: pradhanangriju@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 <!---
 riju-pradhanang/riju-pradhanang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
